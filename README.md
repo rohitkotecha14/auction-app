@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auction Website
 
 This is an eBay-like e-commerce auction website built using **Django 4** with **Bootstrap 5** that uses a **PostgreSQL** database to store data. Charts are built using **Chart.js 2**.
@@ -157,3 +158,6 @@ Go to http://127.0.0.1:8000/admin to access the Django Admin interface and sign 
 ## Copyright and License
 
 Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
+=======
+# auction-app
+>>>>>>> 264507d5bf84146ba19593b63ba90bc3e2c8577a
